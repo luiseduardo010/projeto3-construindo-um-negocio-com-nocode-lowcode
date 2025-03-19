@@ -15,9 +15,9 @@ Produtos:
 - Na página produtos contém os produtos que a Candy Life oferece como: Bolos, Trufas, Brigadeiros e Bolo de Pote com preços variados.
 - Ao clicar em um dos produtos, ele calcula o frete, coloca quantas quantidades desejar e mais em baixo tem produtos similares.
 
-  Contato:
-  - Contém campos para nome, email, telefone e mensagem, logo abaixo tem um botão de enviar.
-  - A mensagem é enviada e respodemos assim que visualizarmos.
+Contato:
+- Contém campos para nome, email, telefone e mensagem, logo abaixo tem um botão de enviar.
+- A mensagem é enviada e respodemos assim que visualizarmos.
  
 Carrinho de Compras:
 - Contém a opção de adicionar compras ao carrinho para depois finalizar a compra.
